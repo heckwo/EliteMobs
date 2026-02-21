@@ -67,4 +67,4 @@ All suspected operations involve **archetype changes** — adding or removing EC
 
 ## Context
 
-This mod was extracted from Ordain (Spence's larger V Rising mod). The identical stat modification pattern used in AscensionZones (another mod) ran for 6 months with zero corruption — but AZ only does value-writes, never adds/removes components. The elite system does both.
+This mod was extracted from Ordain (Spence's larger V Rising mod). The identical stat modification pattern used in AscensionZones (another unpublished mod) ran for 6 months with zero corruption — but AZ only does value-writes, never adds/removes components. The elite system does both.
